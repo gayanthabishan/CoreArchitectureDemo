@@ -1,0 +1,250 @@
+{
+  "data": [
+    {
+      "min_price": 15000,
+      "venue": "Colombo City Centre Rooftop",
+      "id": 1,
+      "banner_image": "",
+      "name": "Ne-Yo Live in Sri Lanka",
+      "start_date": "Tuesday, 15th July"
+    },
+    {
+      "min_price": 10000,
+      "venue": "Waters Edge",
+      "id": 2,
+      "banner_image": "",
+      "name": "Yohani Live in Concert",
+      "start_date": "Friday, 13th June"
+    },
+    {
+      "min_price": 20000,
+      "venue": "Shangri-La Colombo",
+      "id": 3,
+      "banner_image": "",
+      "name": "EDM Night Colombo",
+      "start_date": "Wednesday, 06th August"
+    },
+    {
+      "min_price": 15000,
+      "venue": "Colombo City Centre Rooftop",
+      "id": 4,
+      "banner_image": "",
+      "name": "Jazz & Blues Festival",
+      "start_date": "Tuesday, 29th July"
+    },
+    {
+      "min_price": 20000,
+      "venue": "Waters Edge",
+      "id": 5,
+      "banner_image": "",
+      "name": "Summer Beach Party",
+      "start_date": "Thursday, 03th July"
+    },
+    {
+      "min_price": 7500,
+      "venue": "Cinnamon Grand, Colombo",
+      "id": 6,
+      "banner_image": "",
+      "name": "Rock Fusion Live",
+      "start_date": "Thursday, 26th June"
+    },
+    {
+      "min_price": 20000,
+      "venue": "Nelum Pokuna Mahinda Rajapaksa Theatre",
+      "id": 7,
+      "banner_image": "",
+      "name": "Acoustic Evening",
+      "start_date": "Thursday, 19th June"
+    },
+    {
+      "min_price": 2500,
+      "venue": "Nelum Pokuna Mahinda Rajapaksa Theatre",
+      "id": 8,
+      "banner_image": "",
+      "name": "Classical Melodies",
+      "start_date": "Sunday, 08th June"
+    },
+    {
+      "min_price": 15000,
+      "venue": "Waters Edge",
+      "id": 9,
+      "banner_image": "",
+      "name": "Bollywood Bash",
+      "start_date": "Saturday, 21th June"
+    },
+    {
+      "min_price": 7500,
+      "venue": "Cinnamon Grand, Colombo",
+      "id": 10,
+      "banner_image": "",
+      "name": "Arabian Nights",
+      "start_date": "Sunday, 13th July"
+    },
+    {
+      "min_price": 1000,
+      "venue": "Waters Edge",
+      "id": 11,
+      "banner_image": "",
+      "name": "Hip Hop Heat",
+      "start_date": "Tuesday, 08th July"
+    },
+    {
+      "min_price": 1000,
+      "venue": "Galle Face Green",
+      "id": 12,
+      "banner_image": "",
+      "name": "Sunset Chill Sessions",
+      "start_date": "Wednesday, 09th July"
+    },
+    {
+      "min_price": 20000,
+      "venue": "Cinnamon Grand, Colombo",
+      "id": 13,
+      "banner_image": "",
+      "name": "K-Pop Night Out",
+      "start_date": "Tuesday, 08th July"
+    },
+    {
+      "min_price": 10000,
+      "venue": "Nelum Pokuna Mahinda Rajapaksa Theatre",
+      "id": 14,
+      "banner_image": "",
+      "name": "Latin Dance Fiesta",
+      "start_date": "Tuesday, 24th June"
+    },
+    {
+      "min_price": 1000,
+      "venue": "Galle Face Green",
+      "id": 15,
+      "banner_image": "",
+      "name": "Island Beats",
+      "start_date": "Saturday, 28th June"
+    },
+    {
+      "min_price": 10000,
+      "venue": "Nelum Pokuna Mahinda Rajapaksa Theatre",
+      "id": 16,
+      "banner_image": "",
+      "name": "Soul Vibes Concert",
+      "start_date": "Friday, 18th July"
+    },
+    {
+      "min_price": 7500,
+      "venue": "Galle Face Green",
+      "id": 17,
+      "banner_image": "",
+      "name": "Open Mic Unplugged",
+      "start_date": "Monday, 07th July"
+    },
+    {
+      "min_price": 7500,
+      "venue": "Shangri-La Colombo",
+      "id": 18,
+      "banner_image": "",
+      "name": "Rap Star Showdown",
+      "start_date": "Sunday, 22th June"
+    },
+    {
+      "min_price": 2500,
+      "venue": "Colombo City Centre Rooftop",
+      "id": 19,
+      "banner_image": "",
+      "name": "Dancehall Takeover",
+      "start_date": "Monday, 07th July"
+    },
+    {
+      "min_price": 10000,
+      "venue": "Galle Face Green",
+      "id": 20,
+      "banner_image": "",
+      "name": "Silent Disco Party",
+      "start_date": "Thursday, 19th June"
+    },
+    {
+      "min_price": 20000,
+      "venue": "Cinnamon Grand, Colombo",
+      "id": 21,
+      "banner_image": "",
+      "name": "Reggae Vibration",
+      "start_date": "Sunday, 29th June"
+    },
+    {
+      "min_price": 10000,
+      "venue": "Cinnamon Grand, Colombo",
+      "id": 22,
+      "banner_image": "",
+      "name": "Indie Rock Night",
+      "start_date": "Saturday, 28th June"
+    },
+    {
+      "min_price": 20000,
+      "venue": "Galle Face Green",
+      "id": 23,
+      "banner_image": "",
+      "name": "90s Rewind",
+      "start_date": "Wednesday, 09th July"
+    },
+    {
+      "min_price": 1000,
+      "venue": "Colombo City Centre Rooftop",
+      "id": 24,
+      "banner_image": "",
+      "name": "Folk Fest Sri Lanka",
+      "start_date": "Friday, 11th July"
+    },
+    {
+      "min_price": 5000,
+      "venue": "Cinnamon Grand, Colombo",
+      "id": 25,
+      "banner_image": "",
+      "name": "Global DJ Festival",
+      "start_date": "Saturday, 28th June"
+    },
+    {
+      "min_price": 2500,
+      "venue": "Waters Edge",
+      "id": 26,
+      "banner_image": "",
+      "name": "Live Band Showdown",
+      "start_date": "Wednesday, 25th June"
+    },
+    {
+      "min_price": 5000,
+      "venue": "Waters Edge",
+      "id": 27,
+      "banner_image": "",
+      "name": "Carnival of Sound",
+      "start_date": "Monday, 09th June"
+    },
+    {
+      "min_price": 7500,
+      "venue": "Cinnamon Grand, Colombo",
+      "id": 28,
+      "banner_image": "",
+      "name": "Serenade in Colombo",
+      "start_date": "Monday, 28th July"
+    },
+    {
+      "min_price": 7500,
+      "venue": "Colombo City Centre Rooftop",
+      "id": 29,
+      "banner_image": "",
+      "name": "Neon Night Party",
+      "start_date": "Thursday, 10th July"
+    },
+    {
+      "min_price": 1000,
+      "venue": "Waters Edge",
+      "id": 30,
+      "banner_image": "",
+      "name": "Electronic Symphony",
+      "start_date": "Saturday, 12th July"
+    }
+  ],
+  "pagination": {
+    "previous": 0,
+    "next": 1,
+    "nb_pages": 1
+  }
+}
+
